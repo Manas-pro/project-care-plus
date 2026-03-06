@@ -64,4 +64,4 @@ Power BI connects to **Redshift** for visual insights.
 - 💡 Enhanced decision-making capabilities with actionable reports
 - 🔐 Scalability and governance with **AWS Glue** and **Amazon RedShift**
 
-Copyright©️ Codebasics Inc. All rights reserved.
+
